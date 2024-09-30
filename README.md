@@ -4,5 +4,5 @@ Functions are roughly divided sequentially (i.e., by processing step). Analyses 
 
 The scripts used to analyze open-field data after processing through DeepLabCut can be found [here](https://github.com/RohanSavani/OpenFieldAnalysis).
 
-Feel free to contact with further questions. 
+Primary analyses were performed in the [Jupyter Notebook](pvnglp1r_finalanalysis.ipynb) file. It is relatively messy but contains the necessary code and timestamps for reproducibility. Feel free to contact with further questions and/or clarifications. 
 
